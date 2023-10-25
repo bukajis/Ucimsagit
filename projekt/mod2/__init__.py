@@ -1,0 +1,1 @@
+print("mod2/__init__.py")
