@@ -1,7 +1,7 @@
 import os
 
 FOLDER = "/xampp/"
-
+print("skusiam soamriny")
 def listdir(cesta,spaces=0):
     try:
         d = os.listdir(cesta)
