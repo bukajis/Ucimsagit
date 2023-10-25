@@ -13,3 +13,4 @@ print(f"{z:2f}")                #123.456700
 print(f"{z:.2f}")
 print(f"{z:8.2f}")
 print(100*"-")
+print("nigerajter")
